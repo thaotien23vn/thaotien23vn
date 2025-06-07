@@ -1,3 +1,22 @@
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=thaotien23vn.thaotien23vn&"  />
+</div>
+
+###
+
+<h1 align="center">Hi! 👋I'm ThaoTien</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">4th-year student at Industrial University of Ho Chi Minh City, passionate about creating digital products that enhance user experience and solve real-world problems. I specialize in building responsive web and mobile interfaces using ReactJS, React Native, and Tailwind CSS.</p>
+
+###
 <!-- GitHub Statistics -->
 <div align="center">
   <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=thaotien23vn&bg_color=2E344000&color=A9A9A9FF&title_color=81A1C1FF&line=81A1C1FF&point=8FBCBBFF&hide_border=true&custom_title=thaotien23vn's%20Contribution%20Graph"/>
@@ -20,25 +39,7 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=thaotien23vn.thaotien23vn&"  />
-</div>
-
-###
-
-<h1 align="center">Hi! 👋I'm ThaoTien</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">4th-year student at Industrial University of Ho Chi Minh City, passionate about creating digital products that enhance user experience and solve real-world problems. I specialize in building responsive web and mobile interfaces using ReactJS, React Native, and Tailwind CSS.</p>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thaotien23vn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
