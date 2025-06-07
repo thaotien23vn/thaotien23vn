@@ -8,6 +8,36 @@
   <img width=60% alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=thaotien23vn&theme=dracula"/>
 </div>
 
+<div align="center">
+  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RleGk1OWwzdnlvaGY4YXlsOHk2dXgzeXhuYTZnNzdrdzE2d2Z3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GI8Owy9JJ0Y6qFGnvd/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=thaotien23vn.thaotien23vn&"  />
+</div>
+
+###
+
+<h1 align="center">Hi! 👋I'm ThaoTien</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">4th-year student at Industrial University of Ho Chi Minh City, passionate about creating digital products that enhance user experience and solve real-world problems. I specialize in building responsive web and mobile interfaces using ReactJS, React Native, and Tailwind CSS.</p>
+
 ###
 
 <div align="center">
